@@ -1,0 +1,22 @@
+.frenar {
+    width: 81.81px;
+    height: 46.54px; 
+}
+body{
+    background-color: #DEA03B;
+}
+
+.navbar {
+    position: fixed; width: 100%;
+    z-index: 3;
+}
+
+.reciclaje{
+    margin-right: 30px;
+    border-radius:  10%;
+    float: none;
+    width: 400px;
+    height: 200px;
+    display: block;
+
+}

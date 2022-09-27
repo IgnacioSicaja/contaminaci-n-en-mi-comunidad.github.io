@@ -1,0 +1,79 @@
+.basurauno {
+    margin-right: 30px;
+    border-radius:  10%;
+    float: none;
+    width: 230px;
+    height: 180px;
+    display: block;
+
+}
+
+.basura2 {
+    margin-right: 70px;
+    border-radius:  10%;
+    float: none;
+    width: 300px;
+    height: 200px;
+    display: block;
+}
+
+.basura3 {
+    margin-right: 70px;
+    border-radius:  10%;
+    float: none;
+    width: 300px;
+    height: 200px;
+    display: block;
+}
+
+.basura4 {
+    margin-right: 70px;
+    border-radius:  10%;
+    float: none;
+    width: 300px;
+    height: 200px;
+    display: block;
+}
+
+body {
+    background: rgb(124, 190, 47);
+    
+}
+
+.navbar {
+    position: fixed; width: 100%;
+    z-index: 3;
+}
+
+.logo {
+    width: 81.81px;
+    height: 46.54px; 
+}
+
+
+
+.nombre{
+    color: aliceblue;
+    text-align: center;
+}
+
+.fondo {
+    background-color: rgb(16, 138, 138);
+}
+
+.numero{
+    color: aliceblue;
+    text-align: center;
+}
+
+.autor{
+    color: aliceblue;
+    text-align: center;
+}
+
+.tema{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic ;
+}
+
